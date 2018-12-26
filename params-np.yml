@@ -2,8 +2,8 @@
 # pivnet-api-token: ((pivnet_token))
 # bbr-version: 1.2.6
 opsman-url: https://opsman.np.stratus.albertsons.com
-# opsman-username: ((opsman_admin_username))
-# opsman-password: ((opsman_admin_password))
-# backup-artifact-bucket: bbrcontainer
-# storage-access-key-id: abspcfsbbbr
-# storage-secret-access-key: ((storage-secret-access-key))
+opsman-username: ((opsman_admin_username))
+opsman-password: ((opsman_admin_password))
+backup-artifact-bucket: abspcfbbrert
+storage-access-key-id: abspcfnpbbr
+storage-secret-access-key: ((storage-secret-access-key))
